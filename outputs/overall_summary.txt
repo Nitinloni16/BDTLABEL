@@ -1,0 +1,2 @@
+ Total Tasks  Avg CPU Usage  Peak CPU  Assigned Memory  Memory Usage  Avg Heat  Total Energy  Avg Duration    Total Heat  Failure Rate (%)
+       12000       0.045008   0.04507         0.024913      0.004513 14.500788   8426.461341  1.563248e+07 174009.455981         49.941667

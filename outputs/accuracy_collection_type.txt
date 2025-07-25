@@ -1,0 +1,1 @@
+RMSE (collection_type): 0.4976

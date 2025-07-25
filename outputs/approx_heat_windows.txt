@@ -1,0 +1,5 @@
+Duration (s): 8.11
+Avg CPU Usage (%): 72.85
+Estimated Heat Score: 590.77
+Memory Start (MB): 149.72
+Memory End (MB): 150.25

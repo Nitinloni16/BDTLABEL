@@ -1,0 +1,3 @@
+ collection_type  Tasks      Heat  Memory Usage
+               1   5991 14.493799      0.004506
+               0   6009 14.507756      0.004519
